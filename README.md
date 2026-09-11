@@ -4,6 +4,8 @@ A native macOS menu bar app for **Baseus Bass BP1 Pro ANC** built with SwiftUI, 
 
 Protocol ported from [elaxptr/baseus-desktop](https://github.com/elaxptr/baseus-desktop) (see [THIRD_PARTY_NOTICES.md](https://www.google.com/search?q=THIRD_PARTY_NOTICES.md)).
 
+![img](https://i.imgur.com/dE510A2.png)
+
 ## Quick Start
 
 1. Copy `dist/Baseus Menu.app` to `/Applications`.
