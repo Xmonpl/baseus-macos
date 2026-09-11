@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key><string>pl</string>
+    <key>CFBundleExecutable</key><string>BaseusMenu</string>
+    <key>CFBundleIdentifier</key><string>pl.xmon.BaseusMenu</string>
+    <key>CFBundleName</key><string>Baseus Menu</string>
+    <key>CFBundleDisplayName</key><string>Baseus Menu</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>1.2.1</string>
+    <key>CFBundleVersion</key><string>4</string>
+    <key>CFBundleIconFile</key><string>AppIcon</string>
+    <key>LSMinimumSystemVersion</key><string>13.0</string>
+    <key>LSUIElement</key><true/>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSBluetoothAlwaysUsageDescription</key><string>Baseus Menu używa Bluetooth do odczytu baterii i sterowania słuchawkami Bass BP1 Pro ANC.</string>
+    <key>NSBluetoothPeripheralUsageDescription</key><string>Połączenie ze słuchawkami Baseus do sterowania ANC, EQ i odczytu baterii.</string>
+    <key>NSHumanReadableCopyright</key><string>© 2026. Niezależny projekt na licencji MIT. Protokół na podstawie elaxptr/baseus-desktop.</string>
+</dict>
+</plist>
